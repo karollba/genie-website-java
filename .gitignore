@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+application.properties
+Dockerfile
+mvnw.cmd
+
+.env
